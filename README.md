@@ -255,7 +255,6 @@ Chúng tôi hoan nghênh mọi đóng góp! Vui lòng:
 5. Push branch và tạo Pull Request
 
 **Quy tắc quan trọng:**
-- Đọc `.claude/rules/development-rules.md` trước khi bắt đầu
 - Chạy `cargo fmt` và `cargo clippy` trước commit
 - Không commit sensitive data (.env, API keys, credentials)
 - Đảm bảo tất cả tests pass
