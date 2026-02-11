@@ -1,0 +1,63 @@
+# Rust
+src-tauri/target/
+**/*.rs.bk
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+*.tsbuildinfo
+*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# IDE
+.vscode/*
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*.suo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env*
+!.env.example
+
+# Build
+/build
+/coverage
+
+# Misc
+repomix-output.xml
+.serena/cache
+screenshots/*
+docs/screenshots/*
+docs/research/*
+logs.txt
+__pycache__
+
+# CK meta
+prompt.md
+ck.md
+
+# Gemini CLI settings
+.gemini/settings.json
+.claude/settings.bak.json
+
+.claude/
+
+.opencode/
+plans/
+
+ANGENTS.md
+CLAUDE.md
+PROMPT.md
+REPOMIXIGNORE
